@@ -1,1 +1,2 @@
-# School-Projects
+# School-Project
+This is growing display of 
