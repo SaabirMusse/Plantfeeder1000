@@ -1,2 +1,3 @@
-# My Projects
-This a display of school coursework and personal projects, I have completed and done.
+# Plantfeeder1000
+The program is a prototype garden simulation game with a GUI, where users maintain and monitor ten virtual plants. It graphically displays real-time moisture levels, updates every second, alerts users when plants need watering, and provides controls to water individual plants as required. Users need to make sure the water moisture level stays in an acceptable range and be careful to make sure plants don't reach a water moisture level of 0. Alerts are sent out to the user when the plant reaches the water level, this has a red alert indicator, and the user will be informed to water the plant, if the user overwaters the plant they will alerted and told to "Stop Watering plant". I created this program for a school project and used c# to develop the program. I used Waterfall software methodology to develop projects due to time constraints and the nature of the coursework, which meant other software methodologies such as Agile or Scrums could not be used. Evaluation and Design Documentation of the project will also be attached to this repository.
+
